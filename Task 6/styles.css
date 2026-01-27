@@ -1,0 +1,10 @@
+#home {
+    height: 100vh;
+    background: linear-gradient(to right, #0d1741, #4c6afb);
+    color: rgb(190, 100, 210);  /* This will now work */
+    margin-bottom: 70px;
+}
+
+#skills{
+    margin-top: 70px;
+}
